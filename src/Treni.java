@@ -60,7 +60,7 @@ public class Treni {
         this.passeggeri=passeggeri;
     }
 
-
+//ciai
 
 
     public String toString(){
